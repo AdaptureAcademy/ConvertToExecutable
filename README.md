@@ -8,7 +8,7 @@ The script should run on the same level as the `venv` (virtual environment) dire
 ```./convert_to_tar.sh main.py```
 
 ## Windows
-```convert_to_exe.bat```
+```convert_to_exe.bat main.py```
 
 # Technical Challenges
 To generate a `.exe`, you have to run the `convert_to_exe.bat` file on Windows and to generate a `.tar.gz` file, you have to run the `convert_to_tar.sh` file on Linux
